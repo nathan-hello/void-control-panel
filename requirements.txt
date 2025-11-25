@@ -1,0 +1,2 @@
+xbps-install gtk4-devel (assumed)
+xbps-install gtkmm4-devel
